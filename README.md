@@ -1,2 +1,2 @@
 # hello-world
-CSC 430 first project
+Hi I'm Travis Tan, current student in Murray State University
